@@ -1,0 +1,29 @@
+.about-section {
+    background-color: #ffffff;
+    padding: 60px 20px;
+    color: #2d3748;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.about-section h2 {
+    color: #2563eb;
+    text-align: center;
+    margin-bottom: 1.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.about-section p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+}
+
+.about-section ul {
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+.about-section li {
+    margin-bottom: 0.75rem;
+}
