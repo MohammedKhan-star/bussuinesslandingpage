@@ -12,7 +12,7 @@ function Header() {
             <nav className="navbar">
                 
                 <img src="https://via.placeholder.com/50" alt="Logo" className="logo" />
-               <h1>Mohammed Khan</h1>
+           
                 <div className='nav-icons'>
                  <Link to="/home" className="nav-link"><FaHome /></Link>
                 <Link to="/about" className="nav-link"><FcAbout /></Link>
